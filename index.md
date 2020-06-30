@@ -9,3 +9,6 @@ at the end of the game. In 2008, McFly was selected by Empire magazine as the 12
 * red blooded
 * cool
 * funny
+
+As Marty sayd:
+> Hey, you ar the doc, Doc.
